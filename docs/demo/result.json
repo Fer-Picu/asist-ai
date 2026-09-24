@@ -1,0 +1,13 @@
+{
+  "input": "sample.wav",
+  "input_sha256": "e70932576899ad77e4b511fa4c77dcedb75128d3ac2472dcb8babb415daacded",
+  "model": "ggml-tiny.bin",
+  "language": "en",
+  "threads": 4,
+  "platform": "Linux x86_64",
+  "input_seconds": 11.79,
+  "trimmed_seconds": 10.22,
+  "transcription_seconds": 18.37,
+  "transcript": "Good software connects the pieces, this local voice tool or records audio, removes silence and turns speech into text. The result is ready to copy into a note.",
+  "scope": "File -> real WebRTC VAD -> real whisper.cpp. Microphone, clipboard and desktop shortcut are not exercised."
+}

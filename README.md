@@ -8,6 +8,10 @@ The project name is **Asist AI**. The Python package and command remain `asit-ia
 
 [Recorded pipeline demo](docs/demo/README.md) · [Architecture and trade-offs](docs/architecture.md) · [Portfolio](https://fer-picu.github.io/)
 
+## Experimental proposal
+
+This branch contains a [flowchart and phased task plan for evidence-backed action drafts](docs/experimental/action-workflow.md): Fabric pattern evaluation first, asynchronous jobs second, and read-only MCP/agent access third. **Design for discussion only; these capabilities are not implemented.**
+
 ## Why I built it
 
 I wanted dictation to fit into my Linux workflow: capture a thought, turn it into text locally, and use it in the application I already have open. The engineering work is connecting existing tools into a usable workflow and handling their process lifecycle and failure modes. I did not train Whisper or build its inference engine.
